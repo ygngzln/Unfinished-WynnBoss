@@ -580,4 +580,3 @@ function skill(x: number){
             return 0.808;
     }
 }
-
